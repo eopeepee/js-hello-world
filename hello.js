@@ -3,9 +3,13 @@ Welcome, new coder.
 Enter your code on line 7 to print 'Hello, World!' 
 to the console (the panel on the right)
 */
+//wont run without parentheses
+//quotation marks make it a string
+//semi colon ends line
+//numbers not strings so it does math
 
-console.log("Hello");
-
+console.log("Hello " +(3+6));
+console.log("Hello  hi \"How are you\" ");
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
